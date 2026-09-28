@@ -15,14 +15,11 @@
     "tailwind-merge": "3.4.0"
   },
   "devDependencies": {
-    "@rollup/wasm-node": "^4.63.5",
-    "@tailwindcss/oxide-wasm32-wasi": "^4.3.3",
     "@tailwindcss/vite": "4.1.17",
     "@types/node": "22.19.17",
     "@types/react": "19.2.7",
     "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "5.1.1",
-    "lightningcss-wasm": "^1.33.0",
     "tailwindcss": "4.1.17",
     "typescript": "5.9.3",
     "vite": "7.3.2",
